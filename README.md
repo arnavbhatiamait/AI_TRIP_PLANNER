@@ -25,8 +25,10 @@ Whether you're planning a quick weekend getaway or a month-long adventure, this 
 ---
 
 ## Screen Shots
-[screenshot1](https://github.com/arnavbhatiamait/AI_TRIP_PLANNER/blob/master/ScreenShots/image.png?raw=true)
-[screenshot2](https://github.com/arnavbhatiamait/AI_TRIP_PLANNER/blob/master/ScreenShots/image1.png?raw=true)
+![screenshot1](https://github.com/arnavbhatiamait/AI_TRIP_PLANNER/blob/master/ScreenShots/image.png?raw=true)
+
+![screenshot2](https://github.com/arnavbhatiamait/AI_TRIP_PLANNER/blob/master/ScreenShots/image1.png?raw=true)
+
 ---
 ## ✨ Features
 
